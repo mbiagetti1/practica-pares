@@ -1,7 +1,4 @@
 buenas tardes
 byee
-<<<<<<< HEAD
 buenas noches
-=======
 buena conversacion
->>>>>>> ab99c97e48e059606680f2a05786f480e9e5d7aa
